@@ -1,4 +1,4 @@
-name: demcp_defillama_mcp
+name: demcp_defillama
 description: "Defillama MCP"
 version: 1.0.0
 model: sse
